@@ -1,0 +1,4 @@
+a9 c0     ; LDA $c0 (load accumulator)  
+aa        ; TAX     (transfer accumulator to X)
+e8        ; INX     (increment X)
+00        ; BRK
